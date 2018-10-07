@@ -1,1 +1,1 @@
-# quadriped-animation
+# quadruped-animation
